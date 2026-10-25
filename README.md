@@ -99,6 +99,7 @@ the canonical answer for an MV3 task.
 
 ## Resources
 
+- [Chrome Extension Guide](https://github.com/theluckystrike/chrome-extension-guide) - Free guides on MV3 APIs, service workers, migration and publishing.
 - [Chrome Extensions documentation](https://developer.chrome.com/docs/extensions) - Official Google Docs for the Chrome extension platform.
 - [Manifest V3 migration guide](https://developer.chrome.com/docs/extensions/develop/migrate) - Official MV2 → MV3 migration guide.
 - [MDN — Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) - Mozilla's cross-browser extension docs.
